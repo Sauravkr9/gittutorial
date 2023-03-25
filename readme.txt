@@ -41,3 +41,5 @@ just want the changes to be moved in working area or staging area then we git re
  
 13. `git diff commit1 commit2` -> gives the difference of all file changes between two commits
 Saurav Kumar
+B.Tech
+information technology  
